@@ -23,7 +23,7 @@
 
 
 ## 💻 How to Run
-1. Clone the repository: git clone [ضع رابط مشروعك هنا]
+1. Clone the repository: git clone [https://github.com/Aubai9/Bank-System-Management-OOP]
 2. Compile the C++ source code using any standard C++ compiler (GCC, MSVC, etc.).
 3. Run the generated executable file.
 
