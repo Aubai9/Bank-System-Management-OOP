@@ -1,0 +1,52 @@
+# Build directories
+bin/
+obj/
+build/
+dist/
+out/
+
+# Compiled files
+*.o
+*.obj
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Code::Blocks specific
+*.cbp
+*.layout
+*.depend
+*.workspace
+
+# Cscope
+cscope.out
+cscope.in.out
+cscope.po.out
+cscope.files
+
+# Data files (sensitive data)
+Clients.txt
+Users.txt
+LoginRegister.txt
+TransferLog.txt
+*.txt
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Debug files
+*.pdb
+*.ilk
+*.exp
+
+# Temporary files
+*.tmp
+*.temp
