@@ -14,11 +14,16 @@
 - Data Storage: File Handling (Text files for database simulation)
 
 ## 📸 Screenshots
-<!-- أضف صور شاشات البرنامج هنا بعد رفعه -->
-*[ Add your console screenshots here ]*
+
+<img width="663" height="257" alt="image" src="https://github.com/user-attachments/assets/814bccfd-de86-476e-a784-f64f8d61da65" />
+<img width="507" height="394" alt="image" src="https://github.com/user-attachments/assets/35327fe6-b54d-4d92-bebe-b2d06b9607a2" />
+<img width="449" height="352" alt="image" src="https://github.com/user-attachments/assets/ce8e0df1-04bc-490e-8529-1875cb7c92f2" />
+<img width="830" height="357" alt="image" src="https://github.com/user-attachments/assets/3114f121-db33-410f-a773-46022eb9ef1d" />
+
+
 
 ## 💻 How to Run
-1. Clone the repository: git clone [ضع رابط مشروعك هنا]
+1. Clone the repository: git clone [https://github.com/Aubai9/Bank-System-Management-OOP]
 2. Compile the C++ source code using any standard C++ compiler (GCC, MSVC, etc.).
 3. Run the generated executable file.
 
